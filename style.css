@@ -1,7 +1,11 @@
 html{direction: rtl}
 html,body,div{padding: 0;margin: 0;}
 body{width: 100%;}
-.header {margin-top:40px;margin:auto;width:600px;text-align: center}
+.header {margin:auto;margin-top:40px;width:600px;text-align: center}
 .header h1{ font-family: "Noto Kufi Arabic";color:#333;font-size: 48px}
-.header h2{ font-family: "َAmiri";color:#333;font-size: 24px}
-.header h3{ font-family: "َAmiri";color:#333;font-size: 24px}
+.header h2{ font-family: "َAmiri";color:#555;font-size: 24px}
+.header h3{ font-family: "َAmiri";color:#555;font-size: 24px}
+
+.main {margin:auto;margin-top:100px;width:600px;text-align: justify}
+.main ul {list-style: none;}
+.main ul li {font-family:"Amiri";font-weight: normal;font-size: 24px;color:#333;}
